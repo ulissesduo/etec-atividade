@@ -1,0 +1,14 @@
+C:\Users\uliss\source\repos\Consultas\Consultas\bin\Debug\Consultas.exe.config
+C:\Users\uliss\source\repos\Consultas\Consultas\bin\Debug\Consultas.exe
+C:\Users\uliss\source\repos\Consultas\Consultas\bin\Debug\Consultas.pdb
+C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.csproj.AssemblyReference.cache
+C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.csproj.SuggestedBindingRedirects.cache
+C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.Principal.resources
+C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.frmBase.resources
+C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.Properties.Resources.resources
+C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.csproj.GenerateResource.cache
+C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.csproj.CoreCompileInputs.cache
+C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.exe
+C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.pdb
+C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.frmPesquisaBase.resources
+C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.frmPacienteHerdado.resources
