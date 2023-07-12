@@ -12,3 +12,4 @@ C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.exe
 C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.pdb
 C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.frmPesquisaBase.resources
 C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.frmPacienteHerdado.resources
+C:\Users\uliss\source\repos\Consultas\Consultas\obj\Debug\Consultas.PesquisaPaciente.resources

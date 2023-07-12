@@ -23,7 +23,7 @@ namespace Consultas
             dsConsulta.MedicoDataTable dt = new dsConsulta.MedicoDataTable();
             MedicoTableAdapter ta = new MedicoTableAdapter();
             ta.PesquisaID(dt, 1);
-            dt.Rows[0]["IDMEDICO"].ToString();
+            dt.Rows[1]["IDMEDICO"].ToString();
         }
 
         private void toolStripButton2_Click(object sender, EventArgs e)
